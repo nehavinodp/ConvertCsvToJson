@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EEtKnwsgEYE=",
+  "success": true,
+  "projectFilePath": "C:\\D\\Projects\\Rochester\\Sample Code\\CsvToJson\\CsvToJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neha.pasi\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\neha.pasi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
